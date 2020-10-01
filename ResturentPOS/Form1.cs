@@ -16,5 +16,10 @@ namespace ResturentPOS
         {
             InitializeComponent();
         }
+         public Form2()
+        {
+            InitializeComponent();
+        }
+        
     }
 }
